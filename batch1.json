@@ -1,0 +1,47 @@
+[
+ {
+  "name": "KNOLL Maschinenbau GmbH",
+  "file": "knoll",
+  "beruf": "Elektroniker für Betriebstechnik",
+  "addr": [
+   "KNOLL Maschinenbau GmbH",
+   "Personalabteilung",
+   "Schwarzachstraße 20",
+   "88348 Bad Saulgau"
+  ],
+  "date": "09.11.2026",
+  "betreff": "Bewerbung um eine Ausbildung zum Elektroniker für Betriebstechnik (m/w/d) in Bad Saulgau ab 01.09.2027",
+  "anrede": "Sehr geehrte Damen und Herren,",
+  "p1": "bei Ihnen spricht mich besonders an, dass Sie Förder- und Filteranlagen für die Industrie bauen, deshalb möchte ich meine Ausbildung zum Elektroniker für Betriebstechnik gern in Ihrem Betrieb machen. Dort kann ich viel über elektrische Steuerungen an Anlagen lernen. Der Beruf verbindet Technik mit praktischer Arbeit, und genau das suche ich."
+ },
+ {
+  "name": "Dr.-Ing. Ulrich Esterer GmbH & Co. Fahrzeugaufbauten und Anlagen KG",
+  "file": "esterer",
+  "beruf": "Elektroniker für Betriebstechnik",
+  "addr": [
+   "Dr.-Ing. Ulrich Esterer GmbH & Co. KG",
+   "Personalabteilung",
+   "Bahnhofstraße 18",
+   "34298 Helsa"
+  ],
+  "date": "09.11.2026",
+  "betreff": "Bewerbung um eine Ausbildung zum Elektroniker für Betriebstechnik (m/w/d) in Helsa ab 01.08.2027",
+  "anrede": "Sehr geehrte Damen und Herren,",
+  "p1": "bei Ihnen spricht mich besonders an, dass Sie Tankfahrzeuge für Flughäfen bauen, deshalb möchte ich meine Ausbildung zum Elektroniker für Betriebstechnik gern in Ihrem Betrieb machen. Bei so besonderen Fahrzeugen kann ich viel Praxis sammeln. Der Beruf verbindet Technik mit praktischer Arbeit, und genau das suche ich."
+ },
+ {
+  "name": "Altmühltaler Mineralbrunnen GmbH",
+  "file": "altmuehltaler",
+  "beruf": "Elektroniker für Betriebstechnik",
+  "addr": [
+   "Altmühltaler Mineralbrunnen GmbH",
+   "Personalabteilung",
+   "Bahnhofstraße 48",
+   "91757 Treuchtlingen"
+  ],
+  "date": "09.11.2026",
+  "betreff": "Bewerbung um eine Ausbildung zum Elektroniker für Betriebstechnik (m/w/d) in Treuchtlingen ab 01.09.2027",
+  "anrede": "Sehr geehrte Damen und Herren,",
+  "p1": "der Beruf des Elektronikers für Betriebstechnik verbindet Technik mit praktischer Arbeit, und genau das suche ich. Deshalb möchte ich meine Ausbildung gern bei Ihnen machen."
+ }
+]
